@@ -12,8 +12,8 @@ subprojects {
         defaultConfig {
             minSdkVersion 21
             targetSdkVersion 28
-            versionCode 101
-            versionName '1.1.2'
+            versionCode 102
+            versionName '1.1.3'
         }
     }
 }
